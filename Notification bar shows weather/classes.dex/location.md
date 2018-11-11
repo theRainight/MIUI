@@ -1,2 +1,2 @@
 # 目录
-`/com/android/systemui/statusbar/
+/com/android/systemui/statusbar/

@@ -1,0 +1,8 @@
+# 设置或搜索图标代码上方添加
+` <com.android.systemui.statusbar.WeatherView
+                android:textAppearance="@style/TextAppearance.StatusBar.Expanded.Weather"
+                android:layout_gravity="center_vertical"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />`
